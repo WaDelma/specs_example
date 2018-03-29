@@ -1,0 +1,8 @@
+[package]
+name = "specs_example"
+version = "0.1.0"
+authors = ["delma <delma@del.ma>"]
+
+[dependencies]
+specs = "0.10"
+specs-derive = "0.1.0"
